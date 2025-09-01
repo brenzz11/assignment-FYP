@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main(){ //Kalau code boleh pakai Emoji ngga ya?
+    printf("=======================================================================\n");
+    printf(" ✋ Hello Everyone ✋\n");
+    printf("=======================================================================\n\n");
+    
+    printf("My Name is Brenda 🙋‍♀️\n");
+    printf("I really like the Python language 🐍, because it's easy to understand\n");
+    printf("But right now, I'm starting to learn C language ©️💻 \n\n");
+    
+    printf("=======================================================================\n");
+    printf(" ✋ Bye Everyone ✋\n");
+    printf("=======================================================================\n\n");
+
+return 0;
+} 
