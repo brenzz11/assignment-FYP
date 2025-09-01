@@ -1,1 +1,25 @@
+// AREA OF RECTANGLE
+
+  // Area of Rectangle (Length and Width already defined, Length = 5, Width = 3)
+  Start
+    Print "Calculate Area of Rectangle"
+    Length = 5
+    Width = 3
+    Print "Area of Rectangle = " 
+    Area = Length * Width 
+    Print Area
+  End
+
+  // Area of Rectangle (Length and Width given by user / input)
+  Start
+    Print "Input & Calculate Area of Rectangle"
+    Print "Enter Length = "
+    Input Length
+    Print "Enter Width = "
+    Input Width
+    Set Area = Length * Width
+    Print "Area of Rectangle = "
+    Print Area
+  End
+
 
